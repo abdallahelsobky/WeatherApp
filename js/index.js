@@ -13,7 +13,7 @@ curTime.classList.add("fs-4", "location-city", "m-0", "fw-bold");
 
 async function getCureentDay(country) {
   let response = await fetch(
-    `https://api.weatherapi.com/v1/forecast.json?key=3f2e331856f84a428f5191703240710&q=${country}=07112&days=7`
+    `https://api.weatherapi.com/v1/forecast.json?key=ce4eaaa35464411ba45185155241112&q=${country}=07112&days=7`
   );
   let data = await response.json();
   dispalyDataWeather(data);
