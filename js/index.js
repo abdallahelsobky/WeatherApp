@@ -97,7 +97,7 @@ function displayDataWeather(obj) {
     </div>`;
   allWeather.innerHTML += currentDayWeather;
 
-  for (let i = 1; i <= 6; i++) {
+  for (let i = 1; i <= 4; i++) {
     const forecastDate = new Date(obj.forecast.forecastday[i].date);
     const forecastDayName = days[forecastDate.getDay()];
     let cardForecastDay = `
