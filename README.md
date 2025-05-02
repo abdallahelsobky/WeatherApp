@@ -1,4 +1,5 @@
  # Project Name: WeatherApp
+![Project Name: WeatherApp]( https://github.com/abdallahelsobky/WeatherApp/blob/524d26f7f2cd5a39c8530320aa4d08efd32826a3/Screenshot%20(2).png)
 🔹 **Description: A simple weather application that uses the OpenWeather API to display real-time weather data.** 
 #  🔹 Key Features:
 
