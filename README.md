@@ -1,5 +1,5 @@
  # Project Name: WeatherApp
-🔹 Description: A simple weather application that uses the OpenWeather API to display real-time weather data.
+🔹 **Description: A simple weather application that uses the OpenWeather API to display real-time weather data.** 
 🔹 Key Features:
 
 Enter a city name to get current weather conditions.
